@@ -1,4 +1,4 @@
-# As nice scroll
+# As Gallery
 As Gallery is a great plugin for adding image gallery for your site.
 
 
