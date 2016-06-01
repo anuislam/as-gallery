@@ -23,9 +23,21 @@ Here you can add gallery, edith gallery and change settings.
 
 You can download here : [Download](https://wordpress.org/plugins/as-gallery/)
 
-
-
 ##Changelog
 
 * Initial Release
 
+
+##Demo
+
+Demo 1
+
+![Screenshot](https://github.com/anuislam/as-gallery/blob/master/img/demo1.png)
+
+Demo 2
+
+![Screenshot](https://github.com/anuislam/as-gallery/blob/master/img/demo2.png)
+
+Demo 3
+
+![Screenshot](https://github.com/anuislam/as-gallery/blob/master/img/demo3.png)
