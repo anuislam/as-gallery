@@ -17,7 +17,7 @@ As Gallery is a great plugin for adding image gallery for your site. There are v
 7.Unlimited custom close icon.<br />
 8.Unlimited custom Gallery shadow.<br />
 9.WordPress noconflict jquery.<br />
-12.Unlimited color.<br />
+10.Unlimited color.<br />
 
 
 ## Installation
