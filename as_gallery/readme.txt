@@ -1,4 +1,4 @@
-=== AS login ===
+=== AS gallery ===
 Contributors: 
 Tags: add album, add gallery, add pictures,admin, AJAX, album,best gallery,Simple gallery
 Requires at least: 3.5
