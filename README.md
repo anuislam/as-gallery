@@ -20,9 +20,9 @@ Here you can add gallery, edith gallery and change settings.
 
 ##Download
 
-```
+
 You can download here : [Download](https://wordpress.org/plugins/as-gallery/)
-```
+
 
 
 ##Changelog
