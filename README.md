@@ -6,16 +6,33 @@ As Gallery is a great plugin for adding image gallery for your site.
 
 As Gallery is a great plugin for adding image gallery for your site. There are various view options for the images
 
+##Plugin Features !!!!!
+
+1.Easy to use.<br />
+2.Fully customizable.<br />
+3.Change opacity as you wish.<br />
+4.Difarent column 5, 4, 3, 2, 1.<br />
+5.Unlimited custom left icon.<br />
+6.Unlimited custom right icon.<br />
+7.Unlimited custom close icon.<br />
+8.Unlimited custom Gallery shadow.<br />
+9.WordPress noconflict jquery.<br />
+12.Unlimited color.<br />
+
+
+## Installation
+```
+1. Upload ‘as-gallery ‘ folder to the ‘/wp-content/plugins/’ directory or Install as a regullar WordPress plugin
+```
+
+
 After installing and Activating the plugin, go to WordPress Admin Dahsbord and then go to
 ```
 As Gallery 
 ```
 Here you can add gallery, edith gallery and change settings.
 
-## Installation
-```
-1. Upload ‘as-gallery ‘ folder to the ‘/wp-content/plugins/’ directory or Install as a regullar WordPress plugin
-```
+
 ## Credit simplelightbox
 
 ##Download
