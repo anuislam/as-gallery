@@ -8,7 +8,7 @@ As Gallery is a great plugin for adding image gallery for your site. There are v
 
 After installing and Activating the plugin, go to WordPress Admin Dahsbord and then go to
 ```
-Appearance > As Gallery 
+As Gallery 
 ```
 Here you can add gallery, edith gallery and change settings.
 
