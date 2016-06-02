@@ -129,27 +129,25 @@ if (!function_exists('as_gl_get_opt_css')) {
 	<style>
 
 
-.sl-wrapper .sl-close {
-
-
-
 <?php
 
 if(empty($as_gl_colse_icon ) === false){
-	?>
+?>
 
-background-repeat: no-repeat;
-background-position: center center;
--webkit-background-size: 100%;
-background-size: 100%;
-background-image: url('<?php echo $as_gl_colse_icon; ?>');
-  
-	<?php
+	.sl-wrapper .sl-close, .sl-wrapper .sl-close:hover, .sl-wrapper .sl-close:focus {
+	background-repeat: no-repeat;
+	background-position: center center;
+	-webkit-background-size: 100%;
+	background-size: 100%;
+	background-image: url('<?php echo $as_gl_colse_icon; ?>');
+	outline: none;
+	}
+
+<?php
 }
 
 ?>
 
-}
 
 .sl-wrapper .sl-navigation button.sl-next {
 
